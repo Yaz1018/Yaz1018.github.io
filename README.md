@@ -5,7 +5,7 @@ frontend-nanodegree-web-perf
 A basic portfolio site who's sole purpose is to direct to the views/pizza.html.
 
 ## Hosted:
-I used github.io to host and test everything.
+I used github.io to host and test everything. https://yaz1018.github.io/
 
 ## Setup - Installation
 For the game to function correctly, you need to have a directory containing:
